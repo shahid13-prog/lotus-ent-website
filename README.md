@@ -1,6 +1,6 @@
  lotus-ent-website
 │
-├── index.html
+├── indexc.html
 ├── style.css
 │
 └── images
